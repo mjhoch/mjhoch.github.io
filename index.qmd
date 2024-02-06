@@ -1,5 +1,5 @@
 ---
-title: "YOUR NAME" 
+title: "Matthew Hoch" 
 about:
   template: trestles  # jolla  trestles  solana  marquee  broadside
   image: img/profile.png
@@ -9,33 +9,33 @@ about:
   links:
     - icon: linkedin
       text: LinkedIn
-      href: https://linkedin.com
+      href: https://www.linkedin.com/feed/?trk=homepage-basic_sign-in-submit
     - icon: instagram
       text: Instagram
       href: https://instagram.com
     - icon: github
       text: GitHub
-      href: https://github.com
+      href: https://github.com/mjhoch/mjhoch.github.io
     - icon: file-earmark-pdf
       text: Resumé
-      href: https://GITHUB_USERNAME.github.io/resume-example.pdf
+      href: https://github.com/mjhoch/mjhoch.github.io/blob/main/matthew_hoch_resume.pdf
     - icon: mailbox
       text: Email
-      href: mailto:YOUR_EMAIL@geneseo.edu
+      href: mailto:mjh99@geneseo.edu
 
 ---
 
 
-Finley Malloc majors in Data Analytics at SUNY Geneseo. When not working on data analytics, Finley enjoys spending time unicycling and playing with her pet iguana.
+Matthew Hoch majors in Economics and minors in Data Analytics and Mathematics at SUNY Geneseo. When not working on classwork, Matthew enjoys spending time with his friends and doing community service.
 
 ## Education
 
 State University of New York at Geneseo | Geneseo, NY <br>
-B.S. in Data Analytics | Aug 2022 - May 2026 <br>
-Minor in Business Administration 
+B.S. in Economics | Aug 2021 - May 2025 <br>
+Minor in Data Analytics and Mathematics
 
 ## Experience
 
-Starbucks Analytics | Data Analyst Intern | May 2024 - Aug 2024
+SUNY Geneseo | Student Research Analyst | October 2023 - May 2024
 
 
