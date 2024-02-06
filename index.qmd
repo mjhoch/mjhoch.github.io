@@ -22,6 +22,10 @@ about:
     - icon: mailbox
       text: Email
       href: mailto:mjh99@geneseo.edu
+    - icon: github
+      text: Python Data Analysis
+      menu: 
+        - 
 
 ---
 
