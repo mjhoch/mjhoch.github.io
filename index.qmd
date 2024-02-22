@@ -25,7 +25,8 @@ about:
     - icon: github
       text: Python Data Analysis
       menu: 
-        - 
+        - href: https://github.com/mjhoch/mjhoch.github.io/blob/main/basic-python-intro.ipynb
+        - href: https://github.com/mjhoch/mjhoch.github.io/blob/main/danl-210-quarto-reticulate.qmd
 
 ---
 
